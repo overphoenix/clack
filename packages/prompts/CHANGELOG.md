@@ -1,5 +1,17 @@
 # @clack/prompts
 
+## 1.0.0-alpha.5
+
+### Patch Changes
+
+- 9999adf: fix note component overflow bug
+- 2839c66: fix(note): hard wrap text to column limit
+- 71b5029: Add missing nullish checks around values.
+- 0b852e1: Handle `stop` calls on spinners which have not yet been started.
+- 09e596c: refactor(progress): remove unnecessary return statement in start function
+- Updated dependencies [71b5029]
+  - @clack/core@1.0.0-alpha.5
+
 ## 1.0.0-alpha.4
 
 ### Patch Changes

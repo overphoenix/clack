@@ -1,5 +1,11 @@
 # @clack/core
 
+## 1.0.0-alpha.5
+
+### Patch Changes
+
+- 71b5029: Add missing nullish checks around values.
+
 ## 1.0.0-alpha.4
 
 ### Patch Changes
